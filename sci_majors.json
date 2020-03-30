@@ -1,0 +1,210 @@
+{
+    "Majors": [
+        {
+            "Name": "General",
+            "Dept": "BIOL",
+            "req_nums": [2, 1, 4, 10],
+            "Requirements": [
+                ["CHEM_101", "CHEM_102"],
+                ["STAT_151", "STAT_161"],
+                ["BIOL_107", "BIOL_108", "BIOL_207", "BIOL_208"],
+                [100, "BICM", "BIOL", "BOTN", "GENE", "ZOOL"],
+                ["BIOL_201", "BIOL_205", "BIOL_211", "BIOL_300", "BIOL_310", "BIOL_312", "BIOL_313", "BIOL_315", "BIOL_316", "BIOL_321", "BIOL_323", "BIOL_337", "BIOL_361", "BIOL_365", "BIOL_367", "BIOL_385", "BIOL_399", "BIOL_410", "BIOL_413", "BIOL_414", "BIOL_421", "BIOL_422", "BIOL_430", "BIOL_492", "BIOL_495", "BIOL_498", "BIOL_499", "BOTN_205", "BOTN_305", "GENE_317", "GENE_369", "GENE_370", "GENE_400", "GENE_418", "ZOOL_224", "ZOOL_241", "ZOOL_242", "ZOOL_250", "ZOOL_324", "ZOOL_400", "ZOOL_401", "ZOOL_425", "ZOOL_452"]
+            ]
+        },
+        {
+            "Name": "Molecular/Cellular",
+            "Dept": "BIOL",
+            "req_nums": [2, 1, 4, 10],
+            "Requirements": [
+                ["CHEM_101", "CHEM_102"],
+                ["STAT_151", "STAT_161"],
+                ["BIOL_107", "BIOL_108", "BIOL_207", "BIOL_208"],
+                ["BICM_200", "BICM_310", "BICM_320", "BICM_330", "BIOL_201", "BIOL_205", "BIOL_211", "BIOL_300", "BIOL_313", "BIOL_315", "BIOL_321", "BIOL_323", "BIOL_337", "BIOL_413", "BIOL_421", "BIOL_430", "BIOL_492", "BIOL_495", "BIOL_498", "GENE_317", "GENE_369", "GENE_370", "GENE_400", "GENE_404", "GENE_418", "ZOOL_241", "ZOOL_242"]
+            ]
+        },
+        {
+            "Name": "Ecology and Diversity",
+            "Dept": "BIOL",
+            "req_nums": [2,1,4,10],
+            "Requirements": [
+                ["CHEM_101", "CHEM_102"],
+                ["STAT_151", "STAT_161"],
+                ["BIOL_107", "BIOL_108", "BIOL_207", "BIOL_208"],
+                ["BIOL_310", "BIOL_312", "BIOL_314", "BIOL_315", "BIOL_316", "BIOL_321", "BIOL_323", "BIOL_337", "BIOL_361", "BIOL_365", "BIOL_367", "BIOL_371", "BIOL_410", "BIOL_414", "BIOL_422", "BIOL_492", "BIOL_495", "BIOL_498", "BOTN_205", "BOTN_305", "ZOOL_224", "ZOOL_241", "ZOOL_242", "ZOOL_250", "ZOOL_324", "ZOOL_400", "ZOOL_401", "ZOOL_425", "ZOOL_252"]
+            ]
+        },
+        {
+            "Name": "General",
+            "Dept": "CMPT",
+            "req_nums": [3, 1, 6, 2, 2, 4],
+            "Requirements": [
+                ["CMPT_101", "MATH_114", "STAT_151"],
+                ["MATH_120", "MATH_125"],
+                ["CMPT_103", "CMPT_200", "CMPT_201", "CMPT_305", "CMPT_395", "CMPT_496"],
+                ["CMPT_306", "CMPT_315", "CMPT_330", "CMPT_360", "CMPT_361", "CMPT_370", "CMPT_380", "CMPT_391"],
+                [100, "CMPT"]
+            ]
+        },
+        {
+            "Name": "Databases and Interactive Visualization",
+            "Dept": "CMPT",
+            "req_nums": [3, 1, 6, 3, 4, 3],
+            "Requirements": [
+                ["CMPT_101", "MATH_114", "STAT_151"],
+                ["MATH_120", "MATH_125"],
+                ["CMPT_103", "CMPT_200", "CMPT_201", "CMPT_305", "CMPT_395", "CMPT_496"],
+                ["CMPT_250", "CMPT_272", "CMPT_291"],
+                ["CMPT_315", "CMPT_351", "CMPT_391", "CMPT_450", "CMPT_491"],
+                [100, "CMPT"]
+            ]
+        },
+        {
+            "Name": "Systems and Information Security",
+            "Dept": "CMPT",
+            "req_nums": [3, 1, 6, 7, 1],
+            "Requirements": [
+                ["CMPT_101", "MATH_114", "STAT_151"],
+                ["MATH_120", "MATH_125"],
+                ["CMPT_103", "CMPT_200", "CMPT_201", "CMPT_305", "CMPT_395", "CMPT_496"],
+                ["CMPT_229", "CMPT_280", "CMPT_360", "CMPT_361", "CMPT_380", "CMPT_464", "CMPT_480"],
+                [100, "CMPT"]
+            ]
+        },
+        {
+            "Name": "Gaming",
+            "Dept": "CMPT",
+            "req_nums": [3, 1, 6, 5, 1, 2],
+            "Requirements": [
+                ["CMPT_101", "MATH_114", "STAT_151"],
+                ["MATH_120", "MATH_125"],
+                ["CMPT_103", "CMPT_200", "CMPT_201", "CMPT_305", "CMPT_395", "CMPT_496"],
+                ["CMPT_230", "CMPT_291", "CMPT_330", "CMPT_370", "CRWR_295"],
+                ["CMPT_250", "CMPT_280", "CMPT_355"],
+                [100, "CMPT"]
+            ]
+        },
+        {
+            "Name": "General",
+            "Dept": "MATH",
+            "req_nums": [1, 1, 8, 1, 2, 3],
+            "Requirements": [
+                ["CMPT_101", "CMPT_103"],
+                ["MATH_120", "MATH_125"],
+                ["MATH_114", "MATH_115", "MATH_200", "MATH_214", "MATH_215", "MATH_310", "MATH_330"],
+                ["MATH_228", "MATH_241"],
+                [400, "MATH"],
+                [100, "MATH"]
+            ]
+        },
+        {
+            "Name": "Computer Science-Math",
+            "Dept": "MASC",
+            "req_nums": [2, 1, 1, 6, 6, 2, 2],
+            "Requirements": [
+                ["MATH_114", "MATH_115"],
+                ["MATH_120", "MATH_125"],
+                ["CMPT_101", "CMPT_103"],
+                [200, "CMPT"],
+                [200, "MATH"],
+                [200, "CMPT", "MATH", "STAT"],
+                [100, "CMPT", "MATH", "STAT"]
+            ]
+        },
+        {
+            "Name": "Computer Science-Statistics",
+            "Dept": "MASC",
+            "req_nums": [2, 1, 1, 6, 6, 2, 2],
+            "Requirements": [
+                ["MATH_114", "MATH_115"],
+                ["MATH_120", "MATH_125"],
+                ["CMPT_101", "CMPT_103"],
+                [200, "CMPT"],
+                [200, "STAT"],
+                [200, "CMPT", "MATH", "STAT"],
+                [100, "CMPT", "MATH", "STAT"]
+            ]
+        },
+        {
+            "Name": "Math-Statistics",
+            "Dept": "MASC",
+            "req_nums": [2, 1, 1, 6, 6, 2, 2],
+            "Requirements": [
+                ["MATH_114", "MATH_115"],
+                ["MATH_120", "MATH_125"],
+                ["CMPT_101", "CMPT_103"],
+                [200, "MATH"],
+                [200, "STAT"],
+                [200, "CMPT", "MATH", "STAT"],
+                [100, "CMPT", "MATH", "STAT"]
+            ]
+        },
+        {
+            "Name": "Chemistry-Earth",
+            "Dept": "PHSC",
+            "req_nums": [2, 2, 2, 6, 6, 2],
+            "Requirements": [
+                ["CHEM_101", "CHEM_102"],
+                ["EASC_101", "EASC_102"],
+                ["PHYS_124", "PHYS_126", "PHYS_144", "PHYS_146"],
+                [200, "CHEM"],
+                [200, "EASC"],
+                [200, "PHYS"]
+            ]
+        },
+        {
+            "Name": "Chemistry-Physics",
+            "Dept": "PHSC",
+            "req_nums": [2, 2, 2, 6, 6, 2],
+            "Requirements": [
+                ["CHEM_101", "CHEM_102"],
+                ["EASC_101", "EASC_102"],
+                ["PHYS_124", "PHYS_126", "PHYS_144", "PHYS_146"],
+                [200, "CHEM"],
+                [200, "PHYS"],
+                [200, "EASC"]
+            ]
+        },
+        {
+            "Name": "Earth-Physics",
+            "Dept": "PHSC",
+            "req_nums": [2, 2, 2, 6, 6, 2],
+            "Requirements": [
+                ["CHEM_101", "CHEM_102"],
+                ["EASC_101", "EASC_102"],
+                ["PHYS_124", "PHYS_126", "PHYS_144", "PHYS_146"],
+                [200, "EASC"],
+                [200, "PHYS"],
+                [200, "CHEM"]
+            ]
+        },
+        {
+            "Name": "General",
+            "Dept": "PYSC",
+            "req_nums": [2, 1, 3, 5, 2, 3, 1],
+            "Requirements": [
+                ["BIOL_107", "BIOL_108"],
+                ["STAT_151", "STAT_161"],
+                ["PSYC_104", "PSYC_105", "PSYC_212"],
+                ["PSYC_223", "PSYC_233", "PSYC_241", "PSYC_258", "PSYC_267", "PSYC_275", "PSYC_281"],
+                [400, "PSYC"],
+                [300, "PSYC"],
+                [100, "PSYC"]
+            ]
+        },
+        {
+            "Name": "General",
+            "Dept": "STAT",
+            "req_nums": [2, 1, 1, 7, 1, 1, 5],
+            "Requirements": [
+                ["MATH_114", "MATH_115"],
+                ["MATH_120", "MATH_125"],
+                ["CMPT_101", "CMPT_103"],
+                ["MATH_214", "MATH_215", "MATH_225", "STAT_265", "STAT_266", "STAT_378", "STAT_496"],
+                ["STAT_350", "STAT_353"],
+                [400, "STAT"],
+                [100, "STAT"]
+            ]
+        }
+    ]
+}
